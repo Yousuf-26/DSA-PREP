@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SubSequence
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SubSequence\ here.\r\n\r\n\ @author\ (Yousuf\ Borna)\r\n\ @version\ (6/9/2024)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=processed\ unprocessed
+comment2.target=void\ skipCharacter(java.lang.String,\ java.lang.String)
+numComments=3
